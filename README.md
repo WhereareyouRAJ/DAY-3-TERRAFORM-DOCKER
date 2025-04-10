@@ -179,3 +179,5 @@ output "app_url" {
 ![Terraform Apply](<Screenshot 2025-04-10 194425.png>)  
 ![Terraform Apply Success](<Screenshot 2025-04-10 194441.png>)
 
+### Output 
+![alt text](<Screenshot 2025-04-10 194125.png>)
